@@ -1,0 +1,45 @@
+# Data files
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Models & weights (if you save them)
+*.pkl
+*.joblib
+*.h5
+models/
+
+# Logs
+*.log
+logs/
