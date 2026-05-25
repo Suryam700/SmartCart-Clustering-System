@@ -2,7 +2,7 @@
 ### Generic Marketing & Engagement Strategies
 <hr/>
 
-<b>Another Minor Machine Learning Project </b>
+<b>A machine learning solution for customer intelligence and behavioral segmentation</b>
 * ## Problem Statement:
   <strong>SmartCart</strong> is a growing e-commerce platform serving customers across multiple countries. The company collected extensive customer data consisting of 2240 customer records and 22 attributes including demographics, purchase behaviour, website activity, and response.
   
@@ -20,7 +20,7 @@
   2. Numpy & Pandas ( For Data Preprocessing and E.D.A.)
   3. Data Visualization tool ( Matplotlib & Seaborn )
   4. Scikit-learn ( For Preprocessing, Metrics & Implementation of M.L. Model)
-* ## Task Perform on Dataset
+* ## Task Performed on Dataset
   * Filled missing values using `SimpleImputer`.
   * Converted `Year_Birth` into a more meaningful feature called `Age`.
   * Converted `Dt_Customer` into `Customer_Tenure_Days`.
